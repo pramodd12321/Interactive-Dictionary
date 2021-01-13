@@ -1,0 +1,4 @@
+1. gtts
+2. playsound
+3. speech_recognition
+4. pyaudio
